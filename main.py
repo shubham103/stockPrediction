@@ -26,6 +26,6 @@ for i in range(3,11):
 print(f'\n\nTotal next BULL : {total_1}\nTotal next BEER {total_0}')
 
 if total_0 > total_1:
-    print("\n\nTomorrow prediction : BEER")
+    print("\n\nTomorrow prediction : BEER\n\n")
 else:
-    print("\n\nTomorrow prediction : BULL")
+    print("\n\nTomorrow prediction : BULL\n\n")
